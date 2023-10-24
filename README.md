@@ -85,11 +85,11 @@ IEPL线路，每月12.5元100G起步 https://www.starlinkcloud.cc/#/register?cod
 ## 送中
 查谷歌是否送中(不支持即被谷歌送中)
 https://m.youtube.com/premium
-Q：为什么会送中
+### Q：为什么会送中
 A：目前都是猜测，谷歌并没有公布算法，比如开定位等...
-节点送中好处：
+### 节点送中好处：
 YouTube没有广告
-节点送中坏处：
+### 节点送中坏处：
 1.访问谷歌  google.com   被重定向，跳转至google.com.hk。
 2.搜索内容结果默认隐藏敏感内容，即开启了安全搜索。
 3.注册谷歌旗下产品账号，默认+86区号的手机号码。
@@ -100,5 +100,5 @@ YouTube没有广告
 8.访问 google.com/maps/timeline 会返回400代码错误。
 9.打开 youtube.com/red 网页会提示 Youtube Premium 在您所在的国家/地区尚未推出或不提供此服务。
 10.谷歌Play商店可浏览，但可能无法更新/下载应用。
-Q：能解决吗？
+### Q：能解决吗？
 A：不能，换其他不送中节点吧。
