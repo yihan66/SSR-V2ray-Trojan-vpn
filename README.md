@@ -8,23 +8,23 @@ https://github.com/Kr328/ClashForAndroid/releases
 https://github.com/MatsuriDayo/Matsuri/releases
 ## iOS：
 iOS端的软件是收费的
-Shadowrocket(小火箭)：
+### Shadowrocket(小火箭)：
 https://apps.apple.com/us/app/shadowrocket/id932747118
-Quantumult X(圈x)：
+### Quantumult X(圈x)：
 https://apps.apple.com/tw/app/quantumult-x/id1443988620
 ## Windows：
-v2rayN：
+### v2rayN：
 https://github.com/2dust/v2rayN/releases
-ClashForWindows：
+### ClashForWindows：
 https://github.com/Fndroid/clash_for_windows_pkg/releases
 nekoray：
 https://github.com/MatsuriDayo/nekoray/releases
 ## Mac：
-clashX: 
+### clashX: 
 https://github.com/yichengchen/clashX/releases
-ClashForWindows：
+### ClashForWindows：
 https://github.com/Fndroid/clash_for_windows_pkg/releases
-clashX Pro: 
+### clashX Pro: 
 https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public
 
 注：Clash for Windows虽然名字写的是Windows的，但软件是多平台的，支持Windows、MAC、Linux
