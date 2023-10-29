@@ -34,7 +34,7 @@ https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/pu
 ## 冲浪猫
 中转线路，每月9.9元200G起步 https://q.msclm.net/#/register?code=HdahIvJd
 ## 喵速云
-专线机场，每月9.98元100G起步，https://neko77.best/#/register?code=rQ8ox1LS
+CN2 GIA CMI和IEPLC线路，每月9.98元100G起步，https://neko77.best/#/register?code=rQ8ox1LS
 ## 水滴云
 每月6元60G起步 https://shuidiyun.cc/#/register?code=x1ZiUFaL
 ## 蜂巢
